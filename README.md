@@ -7,7 +7,8 @@ For Styling Websites!
 | Version L  | :white_check_mark:               |
 | version K   | :white_check_mark: |
 | Version S  | :white_check_mark:                |
-# Boot-Strap Inspired
-This is boot-strap inspired, and includes HTML 5!
+# Upgrades!
+eternal-strap is better than Bootstrap, and has pre-made stylers in the folder!
+
 
 
