@@ -1,6 +1,6 @@
 # eternal-strap
 For Styling Websites!
-# All Versions!
+# All Versions in vXLKS
 | Versions | Included       |
 | ------- | ------------------ |
 | Version X  | :white_check_mark: |
